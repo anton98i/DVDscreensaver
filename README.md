@@ -1,6 +1,8 @@
 # DVDscreensaver
-Bouncing DVD Video Screensaver
+Bouncing DVD Video Screensaver [![Build Status](https://travis-ci.org/anton98i/DVDscreensaver.svg?branch=master)](https://travis-ci.org/anton98i/DVDscreensaver)
+
 Demo: https://anton98i.github.io/DVDscreensaver/demo/minimaldemo.html
+
 Demo2: https://anton98i.github.io/DVDscreensaver/demo/
 
 ## Include the script
